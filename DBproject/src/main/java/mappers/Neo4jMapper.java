@@ -1,4 +1,4 @@
-package utilities;
+package mappers;
 
 public interface Neo4jMapper {
 
